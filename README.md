@@ -1,4 +1,4 @@
-# opencv2
+# open CV
 Yolo destekli open CV
 
  PROJENİN ÇALIŞMASI İÇİN BU DOSYALARIN İNDİRİLMESİ GEREKİR:
