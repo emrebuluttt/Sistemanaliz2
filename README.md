@@ -1,4 +1,4 @@
-# Sistemanaliz2
+# opencv2
 Yolo destekli open CV
 
  PROJENİN ÇALIŞMASI İÇİN BU DOSYALARIN İNDİRİLMESİ GEREKİR:
